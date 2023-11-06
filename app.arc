@@ -1,5 +1,5 @@
 @app
-grunge-stack-template
+grunge-ts-41c4
 
 @aws
 runtime nodejs18.x
