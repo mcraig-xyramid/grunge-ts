@@ -2,7 +2,7 @@
 grunge-ts-41c4
 
 @aws
-runtime nodejs18.x
+runtime typescript
 # concurrency 1
 # memory 1152
 # profile default
@@ -14,7 +14,11 @@ runtime nodejs18.x
   method any
   src server
 
+@events
+snoot
+
 @plugins
+architect/plugin-typescript
 plugin-remix
   src plugin-remix.js
 
