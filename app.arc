@@ -17,6 +17,8 @@ runtime typescript
 @events
 snoot
 
+@ws
+
 @plugins
 architect/plugin-typescript
 plugin-remix
