@@ -10,14 +10,10 @@ runtime typescript
 # timeout 30
 
 @http
+get /index
 /*
   method any
   src server
-
-@events
-snoot
-
-@ws
 
 @plugins
 architect/plugin-typescript

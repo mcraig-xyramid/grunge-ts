@@ -8,6 +8,7 @@ node_modules
 preferences.arc
 sam.json
 sam.yaml
+.build/
 
 /cypress/screenshots
 /cypress/videos
